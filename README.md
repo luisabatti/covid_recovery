@@ -1,6 +1,6 @@
 # Analyzing the Rebound of the Canadian Economy Post-COVID
 
-
+[luisabatti.github.io/covid_recovery/](https://luisabatti.github.io/covid_recovery/)
 
 ## Objectives
 This data analysis project provides a comprehensive exploration of the Canadian economy's recovery following the COVID-19 pandemic, from the initial impact in Q2 2020 through to Q2 2023. Utilizing an extensive dataset that encompasses a variety of industries, the analysis investigates the fluctuating economic health of each sector, highlighting areas of growth and decline.

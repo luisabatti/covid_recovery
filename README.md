@@ -12,9 +12,7 @@ Furthermore, the project provides insights into the recovery journey of the indu
 This portfolio project offers valuable insights for individuals looking to understand the economic ramifications of the COVID-19 pandemic, providing a thorough and detailed analysis of recovery trends across the diverse landscape of Canadian industries.
 
 ## Required libraries
-This project has been mainly developed using **Python** and **Pandas**
-
-Here are all the libraries utilized:
+This project has been mainly developed using **Python** together with the following libraries:
 
 1. numpy
 2. pandas

@@ -25,7 +25,7 @@ This project has been mainly developed using **Python** together with the follow
 ## Main datasets utilized
 
 1. GDP by industry dataset from [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610043402) released on 2023-06-30.
-2. Employment and weekly income by industry from [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410022002) released on 2023-06-29: 
+2. Employment and weekly income by industry from [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410022002) released on 2023-06-29.
 
 ## Conclusions
 👉 Different industries have shown distinct growth trajectories in the aftermath of the COVID-19 pandemic.
